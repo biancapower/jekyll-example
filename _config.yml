@@ -1,15 +1,1 @@
 theme: jekyll-theme-cayman
-collections:
-  days:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "days"
-    values:
-      layout: "day"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
